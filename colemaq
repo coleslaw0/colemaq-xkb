@@ -123,6 +123,7 @@ xkb_symbols "iso" {
     key <AE04>	{[ 4,          dollar  ]};
 
     key <AC11>	{[ apostrophe, at      ]};
+    key <BKSL>  {[numbersign, asciitilde]};
     key <TLDE>	{[ grave, notsign, bar ]};
 };
 
